@@ -1,3 +1,4 @@
+# This tests the duty cycle of the GPIO pin attached to the potentiometer not the values
 from machine import Pin, PWM
 from time import sleep
 
